@@ -5,7 +5,8 @@
 Probably using selenium to batch download anime is a bad idea...
 
 ## Dependencies:
-- [Selenium](https://pypi.org/project/selenium/)
+- <a href="https://pypi.org/project/selenium/" target="_blank">Selenium</a>
+
 
 ## Quick Start:
 ```console
